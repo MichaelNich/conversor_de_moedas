@@ -1,0 +1,2 @@
+# Challenge conversor de moedas desenvolvido para o curso Oracle Alura ONE Java Backend
+## Projeto consiste em acessar a API do site Exchangerate-api para pegar os valores dos pares de moedas escolhidos pelos usuários, converter para a moeda desejada e salvar o resultado em um log txt para criar um histórico de conversões.
